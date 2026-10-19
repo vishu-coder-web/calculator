@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "a simple calculator application build with vanilla html,css and javascript by vishu",
+  "keywords": [
+    "utility"
+  ],
+  "license": "MIT",
+  "author": "vishu",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
